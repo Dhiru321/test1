@@ -1,0 +1,10 @@
+Racket/Racquet: A lightweight racket used to hit the shuttlecock over the net.
+Shuttlecock/Birdie/Shuttle: The projectile used in badminton, typically made of feathers (traditional) or synthetic materials.
+Badminton Net: A net that divides the court into two halves, placed horizontally across the court.
+Badminton Court: A rectangular area divided into halves by the net, where the game is played.
+Badminton Shoes: Specialized shoes with good grip to provide stability and prevent slipping on the court.
+Apparel: Comfortable clothing suitable for the sport, often including shorts, skirts, shirts, and socks.
+Grips/Tapes: Overgrips or tapes wrapped around the handle of the racket to provide better grip and absorb sweat.
+Shuttlecock Tubes: Containers used for storing shuttlecocks to protect them from damage.
+Badminton Bag: A bag designed to carry badminton equipment, including rackets, shuttlecocks, shoes, and apparel.
+Accessories: Items such as wristbands, headbands, and sunglasses, which some players use for comfort or style.
